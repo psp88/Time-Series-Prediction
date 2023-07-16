@@ -1,4 +1,6 @@
 # Stocks_Forcasting
-### Stocks price predication using LSTM model.
+#### Stocks price prediction using LSTM model.
 
+## Objective
+dnfl
 
