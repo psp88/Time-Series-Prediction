@@ -1,4 +1,4 @@
-# Stocks_Forcasting
+# Time Series Prediction
 #### Stocks price prediction using LSTM model.
 
 
